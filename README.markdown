@@ -9,6 +9,8 @@ Compatibility
 
 * Ruby versions: MRI 1.9.3 - 2.2, Rubinius 2.2, JRuby 1.7+
 * Rails versions: ~> 4.0
+* 
+Note: This fork has update requirement from rails-jquery-ui < 5.0 to rails-jquery-ui >= 5.0. It will break on rails-jquery-ui < 5.0. For that please use this https://github.com/mbulat/plutus.
 
 For earlier versions, and upgrading, please see the section titled [Previous Versions](https://github.com/mbulat/plutus#previous-versions)
 
